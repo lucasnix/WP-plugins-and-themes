@@ -2,7 +2,7 @@
 /*
 Plugin Name: Lucas Dev Map Plugin
 Plugin URI: https://github.com/lucasnix
-Description: A simple plugin that adds a custom shortcode
+Description: Adds an interactive map to your WordPress site
 Version: 1.0
 Author: Lucas Dev
 Author URI: https://bit.ly/lucasdev
